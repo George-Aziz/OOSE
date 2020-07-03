@@ -13,7 +13,9 @@
 
 ### Files in project: 
 MainGame.java
+
 build.xml
+
 ShopFile.txt
 
 **Model:**
